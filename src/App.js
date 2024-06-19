@@ -1,14 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        Hello
-      </header>
-    </div>
-  );
+  return <div class="text-3xl font-bold underline">Hello world!</div>;
 }
 
 export default App;
