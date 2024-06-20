@@ -1,5 +1,3 @@
-Sure! Here's a template for a GitHub README document tailored for an open-source project that focuses on Tailwind CSS components on Storybook.
-
 ```markdown
 # Tailwind CSS Components Library
 
