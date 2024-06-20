@@ -117,7 +117,7 @@ We are always looking for new ideas and suggestions to improve the library. If y
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [https://github.com/KarthiKey-Dev/React-Tailwind-Components/blob/master/LICENSE](LICENSE) file for details.
 
 ## Contact
 
