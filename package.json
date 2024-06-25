@@ -17,7 +17,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "build-storybook -o docs-build -s ./stories/assets"
+    "build-storybook": "build-storybook -o docs-build -s ./stories/assets",
+    "predeploy": "build-storybook -o docs-build -s ./stories/assets",
+    "deploy": "gh-pages -d docs-build"
   },
   "eslintConfig": {
     "extends": [
@@ -50,6 +52,7 @@
     "@storybook/react-webpack5": "^8.1.10",
     "@storybook/test": "^8.1.10",
     "eslint-plugin-storybook": "^0.8.0",
+    "gh-pages": "^6.1.1",
     "prop-types": "^15.8.1",
     "storybook": "^8.1.10",
     "tailwindcss": "^3.4.4",
