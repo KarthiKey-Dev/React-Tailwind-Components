@@ -1,7 +1,7 @@
 
 # Tailwind CSS Components Library
 
-Welcome to the Tailwind CSS Components Library! This project aims to provide a collection of reusable Tailwind CSS components, easily viewable and copyable through Storybook. Our goal is to build a comprehensive library of components to help developers quickly prototype and build UIs with Tailwind CSS.
+Welcome to the React-Tailwind-Components Library! This project aims to provide a collection of reusable Tailwind CSS components, easily viewable and copyable through Storybook. Our goal is to build a comprehensive library of components to help developers quickly prototype and build UIs with React-Tailwind-CSS.
 
 ![Tailwind CSS Components Library](./assets/banner.png)
 
@@ -17,7 +17,7 @@ Welcome to the Tailwind CSS Components Library! This project aims to provide a c
 
 ## Introduction
 
-Tailwind CSS Components Library is an open-source project designed to help developers use Tailwind CSS more effectively by providing a collection of pre-built components. Each component is documented and can be viewed and tested in Storybook, making it easy to copy the code and use it in your projects.
+React-Tailwind-Components Library is an open-source project designed to help developers use Tailwind CSS more effectively by providing a collection of pre-built components. Each component is documented and can be viewed and tested in Storybook, making it easy to copy the code and use it in your projects.
 
 ## Features
 
@@ -114,10 +114,6 @@ We welcome contributions from the community! If you'd like to contribute, please
 ## Ideas and Suggestions
 
 We are always looking for new ideas and suggestions to improve the library. If you have any, feel free to open an issue or start a discussion in the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 ## Contact
 
