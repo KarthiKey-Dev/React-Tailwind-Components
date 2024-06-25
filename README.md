@@ -1,5 +1,5 @@
 
-# Tailwind CSS Components Library
+# React Tailwind Components Library
 
 Welcome to the React-Tailwind-Components Library! This project aims to provide a collection of reusable Tailwind CSS components, easily viewable and copyable through Storybook. Our goal is to build a comprehensive library of components to help developers quickly prototype and build UIs with React-Tailwind-CSS.
 
