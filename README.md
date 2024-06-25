@@ -10,7 +10,6 @@ Welcome to the React-Tailwind-Components Library! This project aims to provide a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
