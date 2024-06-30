@@ -2334,6 +2334,20 @@
     "@storybook/global" "^5.0.0"
     ts-dedent "^2.0.0"
 
+"@storybook/addon-styling-webpack@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@storybook/addon-styling-webpack/-/addon-styling-webpack-1.0.0.tgz"
+  integrity sha512-jo1kzn7pi+NA+LZxrWoRvW6w7dXIKY/BjTG80XX2uU92lIKT+X1k/9vYk/0KPVK3Bsf4tO6ToAuqIRyOk7MHtg==
+  dependencies:
+    "@storybook/node-logger" "^8.0.0-alpha.10"
+
+"@storybook/addon-themes@^8.1.10":
+  version "8.1.10"
+  resolved "https://registry.npmjs.org/@storybook/addon-themes/-/addon-themes-8.1.10.tgz"
+  integrity sha512-3LdIa0T5OdPCpnZpZVktUAKFEjohOnggewInNDzfouMNk7k9Y7Qjc98wosri3LW6vEQYZGaoXS3F/XvMELkbTw==
+  dependencies:
+    ts-dedent "^2.0.0"
+
 "@storybook/addon-toolbars@8.1.10":
   version "8.1.10"
   resolved "https://registry.npmjs.org/@storybook/addon-toolbars/-/addon-toolbars-8.1.10.tgz"
@@ -2743,7 +2757,7 @@
   resolved "https://registry.npmjs.org/@storybook/manager/-/manager-8.1.10.tgz"
   integrity sha512-dQmRBfT4CABIPhv0kL25qKcQk2SiU5mIZ1DuVzckIbZW+iYEOAusyJ/0HExM9leCrymaW3BgZGlHbIXL7EvZtw==
 
-"@storybook/node-logger@8.1.10":
+"@storybook/node-logger@^8.0.0-alpha.10", "@storybook/node-logger@8.1.10":
   version "8.1.10"
   resolved "https://registry.npmjs.org/@storybook/node-logger/-/node-logger-8.1.10.tgz"
   integrity sha512-djgbAROgGAvz/gr49egBxCHn1+rui57e76qa9aOMPzEBcxsGrnnKKp0uNdiNt4M7Xv6S2QHbJ2SfOlHhWmMeaA==
