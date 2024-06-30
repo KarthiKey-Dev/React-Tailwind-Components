@@ -1,0 +1,49 @@
+.button2_storybook-button__--xkl {
+  background-color: #ea4c89;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  touch-action: manipulation;
+}
+.button2_storybook-button--primary__VL932 {
+  color: white;
+  background-color: #1ea7fd;
+}
+.button2_storybook-button--small__Rn3Bq {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+.button2_storybook-button--medium__SNtA2 {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.button2_storybook-button--large__j4VYr {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+.button2_button-1__k7WgY:hover,
+.button2_storybook-button__--xkl {
+  background-color: #f082ac;
+}
+
+
+/*# sourceMappingURL=stories-Button-stories-button2-stories.50920e5c.chunk.css.map*/

@@ -1,0 +1,48 @@
+.button1_storybook-button__-DLZW {
+  -webkit-appearance: none;
+          appearance: none;
+  background-color: #fafbfc;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow:
+    rgba(27, 31, 35, 0.04) 0 1px 0,
+    rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292e;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
+.button1_storybook-button--primary__YXshx {
+  color: white;
+  background-color: #1ea7fd;
+}
+.button1_storybook-button--small__OuAXs {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+.button1_storybook-button--medium__KeyUI {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.button1_storybook-button--large__TJK2e {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+
+/*# sourceMappingURL=stories-Button-stories-button1-stories.f9cebca0.chunk.css.map*/
